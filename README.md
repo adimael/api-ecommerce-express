@@ -165,10 +165,6 @@ CREATE TABLE ClientesCompramProdutos (
 
 ## Endpoints da API
 
-### 1. server.js
-
-### Este arquivo inicializa o servidor Express e importa as rotas para os clientes e produtos.
-
 ### Clientes
 
 - POST /clientes: Cadastrar um cliente.
